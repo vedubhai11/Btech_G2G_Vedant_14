@@ -8,9 +8,10 @@ int main (){
     a=a+b;
     b=a-b;
     a=a-b;
-    printf("\nafter swapping ");
+    printf("\n after swapping ");
     printf("a=%d",a);
     printf("b=%d",b);
     return 0 ;
+
 
 }
